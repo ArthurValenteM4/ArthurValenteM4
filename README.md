@@ -3,7 +3,7 @@
 * Avid gamer
 * Discord Community Manager
 * NodeJS/Discord bots enthusiast
-* Senior Mobile Developer
+* Senior Mobile Engineer
 * Streams VR content eventually
 * Currently learning Kotlin 🏆
 * Currently learning React Native 🏆
